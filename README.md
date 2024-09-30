@@ -1,6 +1,6 @@
-# MCSharpServ
+# MineSharp
 ## About
-MCSharpServ (MCSS) is a .NET C# remake of the vanilla 1.8.8 Minecraft server software.
+MineSharp is essentially a Minecraft Java Edition server software, ported over to C#.
 
 ## Features (Upcoming)
 Full Minecraft Server in C#
